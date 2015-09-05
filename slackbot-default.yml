@@ -1,0 +1,10 @@
+slackbot:
+  cloudfoundry:
+    environments:
+      pws:
+        display-name: Pivotal Web Services
+        url: https://api.run.pivotal.io
+        admin-user: jghiloni@ecsteam.com
+        admin-password: '{cipher}AQAqZMhNjNueMIn30K/j8haFL/RbvhoKx4HlO1ru+OV2/gz4Qhbjz7/sJXXpjPGrJ63GsYvK9XxfwDYlWnV2D8ZANfpW+o6NNb1yWDPM7drN7sa6Wr50nH2aAqs50SEoru7xbmdEQ9HO01/6NtO2Sz2RIx6BXF3qvnRcTChwWHiwCplx9xSqN8Sdk2csrdzJbpG4ZYJ54zNWgUv+K53BUFYMrRZvQMjFqntAbDX/S4DGiIgLXS1s9XHUcVHQ7fkiTkE0OoE4jkmNnVxYTdKFTOAUIguzu59+1DYdS+qIBvGGvAqajzMB/qsFltrP9uwf7FqbYG+VevVM0JpdjdrUum/ZNKbuw4pFrW6zRV/tRa+Pcx8UJ2FS+q1m99/+Gvm80ew='
+  bot-token: '{cipher}AQAultcWfH5b9Ecd/xgW+yLGjxnfU0WTaRti9NTJolLk3tQbPXv1P+OZhEmwiJSl4/BWUsf5qwPH440u59kmMm3omxXuq7bn9ejlW/yiEZF75NPfMDhVHO6P8wsOKMJX8xqtPMx9BYkivyiDm7YdbRW8h5wyhKYZZIpQ47lngs1q0cuvXntIxmnGf/1fbsOY4lWHWevZrYbLZJkWI0cWOGStc0gPxlM6nxHn/nwCdUhoXk0X7rxMEeDHeo7rVmSeBQPmnsJ+1xrKioWGV1jMcI5uIT0aD3Eu1JDfDsRUrO6KboiDqpPI5pCOtmh/UHQKjs8nwWZ3EKjJos02deoITNXgy96BTCum9isLc+JkjjlXx4Brh8EMrz/9TgOMIjl318FaM0T/ZxuGFApH3J9pNrPF'
+  webhook-url: '{cipher}AQCEYNxKK5uPkF30sh/Rj2wKf0ieoMjkdwXQyfQglno29Yxdl4JHofG7uogcB7v8u3lwfhRAuOgxplAc5AKMrWXUlvfAW3ALZ6hXl0bP6Gn8Klvn9E0DsBsQoKho9t85yg3wu0bAkXubFWq5NYSMBpa91yZK1YKVaBZdbAAkXYQra3od186j7ZgbWDSb0+kQA4zdo80Hr0FGhsjbgCKeiLMh16AEpO0LyA3ZymgKiBT7Zm88Xcu16w4QSmoTqylVjthSpN8oln3o38/L3taEbeI1wJ0k9hoDQHllYu538XDqlle2aPmCeAxRnlk+9YsI58Elwe96fMKl4HYq3k/HE79f3iot4HlRxrNVVUHOfXyhvFYWkIg8HD7FcJjHpriAZLhXNRPfwkXNVGub8ez2NHleIk8ZAY4EHTaI6LZkI6zyFGp5mdGTPPSSDrtCVCo3DDE/ORLv6oVcM5ybqPJXeaAG'
