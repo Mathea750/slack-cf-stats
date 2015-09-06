@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: slackbot
+  profiles:
+    active: default
+  cloud:
+    config:
+      uri: ${vcap.application.uris[0]:http://localhost:8080}/config/
+      server:
+        bootstrap: true
+        prefix: /config/
+        git:
+          uri: https://github.com/ECSTeam/slack-cf-stats.git
+          
+encrypt:
+  key-store:
+    location: classpath:/encryptor.jks
+    alias: encryptor
+    password: ${KEYSTORE_PASSWORD:}
+    secret: ${KEYSTORE_PASSWORD:}
+    
+security:
+  basic:
+    enabled: false
